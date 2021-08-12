@@ -1,0 +1,9 @@
+tutorial setup mysql di windows
+https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_MySQL.htm
+
+butuh Microsoft Visual C++ Redistributable for Visual Studio 2019 x64
+https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+
+install apache
+https://www.sitepoint.com/how-to-install-apache-on-windows/
+
